@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/order-summary-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -47,26 +47,23 @@ Users should be able to:
 
 ### What I learned
 
-
+- Box shadows
+- Properly use rem units
+- Hover states
 
 ### Continued development
 
+- CSS Box Grid
+- Hover states
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-
+- [Box Shadows](https://shadows.brumm.af/) - This helped me to learn and visualize the differebt types of box shadows.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-
+- Website - [Robert Thaiyah](https://github.com/Robert-Thaiyah)
 
 ## Acknowledgments
 
